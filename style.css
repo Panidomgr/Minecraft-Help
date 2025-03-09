@@ -4,8 +4,6 @@ body {
     background-size: 100vw;
     background-position: center;
     background-repeat: repeat;
-    display: flex;
-    justify-content: space-between;
     padding: 10px;
 }
 
@@ -14,13 +12,4 @@ a {
     color: black;
     font-size: 2em;
     font-weight: bold;
-}
-
-input {
-    height: 50px;
-    border-radius: 10px;
-}
-
-input#active {
-    cursor: pointer;
 }
